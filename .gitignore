@@ -1,0 +1,25 @@
+# CMake & Build Output
+build/
+out/
+bin/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+*.cmake
+
+# MSVC / Visual Studio Artifacts
+.vs/
+*.VC.db
+*.sln
+*.vcxproj*
+*.obj
+*.pdb
+*.ilk
+*.exp
+*.lib
+*.dll
+*.exe
+
+# Editor Local Configs
+.vscode/
